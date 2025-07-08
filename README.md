@@ -15,12 +15,9 @@ This project is a multi-channel conversational AI agent built using **n8n**, **L
 ---
 
 ## 🚀 Quick Start
-
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/multi-agent.git
-````
-
 2. Set up environment variables:
 
    ```
