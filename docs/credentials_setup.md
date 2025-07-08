@@ -1,10 +1,6 @@
 # 🔐 Credentials Setup Guide
 
-This guide explains how to set up the required API credentials for running the **Multi-Agent Conversational Workflow** built in `n8n`.
-
----
-
-## 📋 Required Credentials
+This guide explains how to set up the required API credentials for running the **Multi-## 📋 Required Credentials
 
 | Platform   | Credential Name        | Where Used (n8n Nodes)                   |
 |------------|------------------------|------------------------------------------|
